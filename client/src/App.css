@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+h2{
+  margin-bottom: 10px;
+}
+
+.paper{
+  margin-left: 475px;
+  padding: 20px;
+  height: 320px;
+  width: 300px;
+  margin-bottom: 10px;
+}
+
+.inp{
+  margin-bottom: 10px;
+}
+
+hr{
+  width: 300px;
+  margin: 20px 0px 20px 475px;
+  background-color: darkgray;
+}
